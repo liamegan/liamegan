@@ -18,7 +18,7 @@ It's been my pleasure, over the last few years, to put together one of the best 
 ## How to get in touch
 <a href="mailto:liam@wethecollective.com" rel="noreferrer"><img src="https://img.shields.io/badge/email-34A853?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email"> </a>
 <a href="https://www.linkedin.com/in/liam-egan-bb7a656/" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/>
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/liamegan?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="https://twitter.com/liamegan" rel="noreferrer"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/liamegan?style=for-the-badge&logo=twitter&logoColor=white"><a/>
 
 ## 📈 Stats
 
