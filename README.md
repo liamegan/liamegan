@@ -8,15 +8,15 @@ Currently, I work for We The Collective as Director of Technology.
 
 ## My team
 It's been my pleasure, over the last few years, to put together one of the best teams I've ever had the privilege of working with.
-[Marlon Marcello](https://github.com/marlonmarcello)
-[Andrew Rubin](https://github.com/andrewrubin)
-[Nicholas Lancey](https://github.com/NicholasLancey)
-[Harvey Ng](https://github.com/rvno)
-[Roy Chan](https://github.com/chanroyc)
-[Dale Pidlisny](https://github.com/consolecmnd)
+- [Marlon Marcello](https://github.com/marlonmarcello)
+- [Andrew Rubin](https://github.com/andrewrubin)
+- [Nicholas Lancey](https://github.com/NicholasLancey)
+- [Harvey Ng](https://github.com/rvno)
+- [Roy Chan](https://github.com/chanroyc)
+- [Dale Pidlisny](https://github.com/consolecmnd)
 
 ## How to get in touch
-<a href="mailto:liam@wethecollective.com" rel="noreferrer"><img src="https://img.shields.io/badge/liam@wethecollective.com-email"/></a>
+<a href="mailto:liam@wethecollective.com" rel="noreferrer"><img src="https://img.shields.io/badge/We The Collective-email"/></a>
 <a href="https://www.linkedin.com/in/liam-egan-bb7a656/" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/>
 
 ## 📈 Stats
