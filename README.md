@@ -1,16 +1,30 @@
-### Hi there 👋
+# G'day, I'm Liam.
 
-<!--
-**liamegan/liamegan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a creative developer at heart. I've been working in the marketing and advertising industry since 1999, cut my teeth on Flash (AS3 forever) and eventually moved into the world of javascript and webgl. I have a solid background in maths and talk often about how to use it to create novel things. I've published and contributed  to opensource libraries for technologies, ideas and techniques that I love.
 
-Here are some ideas to get you started:
+## Where I am
+Currently, I work for We The Collective as Director of Technology.
+[wethecollective.com](https://www.wethecollective.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My team
+It's been my pleasure, over the last few years, to put together one of the best teams I've ever had the privilege of working with.
+[Marlon Marcello](https://github.com/marlonmarcello)
+[Andrew Rubin](https://github.com/andrewrubin)
+[Nicholas Lancey](https://github.com/NicholasLancey)
+[Harvey Ng](https://github.com/rvno)
+[Roy Chan](https://github.com/chanroyc)
+[Dale Pidlisny](https://github.com/consolecmnd)
+
+## How to get in touch
+<a href="mailto:liam@wethecollective.com" rel="noreferrer"><img src="https://img.shields.io/badge/liam@wethecollective.com-email"/></a>
+<a href="https://www.linkedin.com/in/liam-egan-bb7a656/" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"><a/>
+
+## 📈 Stats
+
+<p align="left">
+<a href="https://github.com/liamegan">
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=liamegan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=liamegan&layout=compact&langs_count=8&theme=dracula"/>
+</a>
+</p>
+
