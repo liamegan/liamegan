@@ -12,7 +12,6 @@ It's been my pleasure, over the last few years, to put together one of the best 
 - [Andrew Rubin](https://github.com/andrewrubin)
 - [Nicholas Lancey](https://github.com/NicholasLancey)
 - [Harvey Ng](https://github.com/rvno)
-- [Roy Chan](https://github.com/chanroyc)
 - [Dale Pidlisny](https://github.com/consolecmnd)
 
 ## How to get in touch
