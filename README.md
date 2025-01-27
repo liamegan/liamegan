@@ -11,7 +11,6 @@ It's been my pleasure, over the last few years, to put together one of the best 
 - [Marlon Marcello](https://github.com/marlonmarcello)
 - [Andrew Rubin](https://github.com/andrewrubin)
 - [Nicholas Lancey](https://github.com/NicholasLancey)
-- [Harvey Ngo](https://github.com/rvno)
 - [Dale Pidlisny](https://github.com/consolecmnd)
 - [Clinton Pravton](https://github.com/pravton)
 
