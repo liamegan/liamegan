@@ -5,7 +5,8 @@ I'm a creative developer at heart. I've been working in the marketing and advert
 ## Where I am
 Currently, I work for We The Collective as Director of Technology.
 [wethecollective.com](https://www.wethecollective.com/)
-[I also have a humble little space of my own](https://www.surface-detail.com/)
+
+[I also have a humble little space of my own](https://www.surface-detail.com/).
 
 ## My team
 It's been my pleasure, over the last few years, to put together one of the best teams I've ever had the privilege of working with.
