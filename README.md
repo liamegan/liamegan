@@ -15,6 +15,7 @@ It's been my pleasure, over the last few years, to put together one of the best 
 - [Nicholas Lancey](https://github.com/NicholasLancey)
 - [Dale Pidlisny](https://github.com/consolecmnd)
 - [Clinton Pravton](https://github.com/pravton)
+- [Kelly Horan](https://github.com/meteoratlas)
 
 ## How to get in touch
 <a href="mailto:liam@wethecollective.com" rel="noreferrer"><img src="https://img.shields.io/badge/email-34A853?style=for-the-badge&logo=minutemailer&logoColor=white" alt="email"> </a>
